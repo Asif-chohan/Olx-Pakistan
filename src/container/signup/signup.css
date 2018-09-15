@@ -1,0 +1,105 @@
+
+
+  .signin{
+    
+    width: 100%;
+    height: 700px;
+    padding-top: 80px;
+    margin: auto;
+    /* background-color: gray; */
+    
+    
+  }
+  
+  .styles_modal__gNwvD{
+    padding: 0px;
+
+    
+  }
+  .labels{
+    color: white;
+    
+  }
+  .inputCustom{
+    padding-top: 20px;
+    width:100%;
+    height: 60px !important;
+  }
+  .loginBtn{
+    background-color: transparent;
+    border: 0px;
+  }
+  .singupformDiv{
+    width: 60%;
+    padding: 60px;
+    margin: auto;
+    border: 2px solid gray;
+    text-align: left !important;
+  }
+  .btnCustom{
+    width: 100px;
+  }
+
+.formLagend{
+  font-weight: bold !important;
+    font-size: 30px !important;
+    padding-bottom: 40px !important;
+}
+  .inptLabels{
+    font-weight: bold !important;
+    font-size: 20px !important;
+    padding-bottom: 30px;
+  
+  }
+.sbmitBtn{
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin: auto !important;
+
+}
+
+
+  .sbmitBtn:hover{
+      background-color: #BBD23D !important;
+
+  }
+
+.btmBox{
+  width: 40%;
+  height: 40px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.082);
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.loginContainer{
+  padding: 0px !important;
+}
+.signupDescrptn{
+  border-left: 1px gray solid;
+  padding: 30px;
+  margin-top: 177px;
+  position: relative !important;
+}
+.signupDescrptn p{
+  font-size: 20px;
+
+}
+
+.signupDescrptn li{
+  font-size: 15px;
+  list-style-type: square;
+}
+
+
+
+  @media (max-width:650px) {
+    .formDiv{
+      width: 300px;
+    }
+}

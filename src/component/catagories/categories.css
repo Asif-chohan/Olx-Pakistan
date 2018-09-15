@@ -1,0 +1,20 @@
+.categoriesCustom{
+    padding-top: 50px;
+    padding-top: 50px;
+}
+.linkBox > *{
+margin-right: 20px !important;
+}
+
+
+
+@media (max-width:770px) {
+    .categoryLink{
+      width: 150px;
+     
+    }
+    .categoryDiscription{
+        font-size: 20px !important;
+    }
+
+}

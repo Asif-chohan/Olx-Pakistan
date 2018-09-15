@@ -1,0 +1,53 @@
+.AdTitleInputCustom{
+    border: 1px solid gray;
+}
+.newAdInputCustom{
+    border: 1px solid gray;
+    padding: 15px 0px 0px 0px;;
+    margin-bottom: 20px;
+    width: 100% !important;
+}
+.NewADformDiv{
+    width: 60%;
+   
+    margin: auto;
+    border: 2px solid gray;
+    text-align: left !important;
+}
+.formLagendCustom{
+    padding: 0px !important;
+    margin: 0px !important;
+    margin-left: 20px !important;
+}
+.newAdInputfields{
+    padding: 20px  !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+
+.inptLabels{
+    padding: 10px !important;
+}
+.newAdTextAria > *{
+    min-height: 180px !important;
+    border: 1px solid gray !important;
+    padding: 10px !important;
+}
+
+.newAdContact{
+    padding: 0px !important;
+    margin: 0px !important;
+    margin-left: 20px !important;
+    font-size: 25px !important;
+    margin-top: 40px !important;
+}
+.inputCustomForFixedValue{
+    border: 0.5px solid gray;
+}
+.newAdInputCustomProvinceSection{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    width: 100% !important;
+    border: 1px solid gray;
+}

@@ -1,0 +1,66 @@
+.imageDiv{
+    width: 20% !important;
+    height: 150px !important;
+}
+
+.expnansionPanelCustom{
+    width: 80% !important;
+    margin: auto;
+    margin-top: 50px
+}
+.priceCustom{
+    width: 100%;
+    text-align: right;
+    font-size: 20px !important;
+    color: navy !important;
+    font-weight: bold !important; 
+}
+
+.typographyCustom{
+    margin-left: 10;
+    flex-direction:column;
+    width: 100% !important;
+    padding-left: 20px;
+
+
+}
+
+.Description{
+    font-size: 18px !important;
+    font-weight: bold;
+    padding-right: 20px;
+    margin-top: 20px !important;
+    width: 30px !important;
+
+
+}
+.TypographyTags{
+    text-align: left !important;
+    margin-top: 10px !important;
+}
+.By{
+    font-size: 18px !important;
+    font-weight: bold;
+    padding-right: 90px;
+    margin-top: 20px !important;
+
+    
+
+}
+
+
+.From{
+    font-size: 18px !important;
+    font-weight: bold;
+    padding-right: 70px;
+    margin-top: 20px !important;
+
+    
+}
+
+.Contect{
+    font-size: 18px !important;
+    font-weight: bold;
+    padding-right: 48px;
+    margin-top: 20px !important;
+}

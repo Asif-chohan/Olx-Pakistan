@@ -1,0 +1,62 @@
+.transition-enter {
+    transform: scale(0);
+  }
+  .transition-enter-active {
+    transform: scale(1);
+    transition: transform 1000ms ease;
+  }
+  .transition-exit {
+    transform: scale(1);
+  }
+  .transition-exit-active {
+    transform: scale(0);
+    transition: transform 1000ms ease;
+  }
+
+ .category{
+    padding: 60px;
+    background-color: white !important;
+    width: 700px;
+     
+   
+    
+  }
+.categoryImages{
+  width: 100%;
+  height: 100%;
+    
+}
+
+
+
+.modalbtn{
+  /* background-color: rebeccapurple; */
+  width:100%;
+  height: 50px;
+  
+}
+.imgBtn{
+  padding: 0px !important;
+  margin: 0px !important;
+  height: 60px !important;
+}
+
+.showSelectedValue{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: 80px;
+}
+
+
+  @media (max-width:770px) {
+    .category{
+      width: 300px;
+      text-align: center;
+     
+    }
+
+}
+
+
+  

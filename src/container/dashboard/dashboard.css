@@ -1,0 +1,17 @@
+.dashboardContainer{
+    padding: 0px !important;
+    text-align: center;
+    
+}
+.dashboardCustom{
+    width: 60%;
+    text-align: left;
+    margin: auto;
+}
+
+
+.expnansionPanel{
+    width: 100%;
+    margin: auto;
+    margin-top: 50px
+}

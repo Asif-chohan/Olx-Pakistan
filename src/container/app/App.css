@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 0px !important;
+  
+}
+.headerCustom{
+  /* padding-left: 20%; */
+  width: 80%;
+  margin: auto;
+}
+
+
+
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+

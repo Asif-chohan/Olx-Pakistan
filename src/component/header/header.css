@@ -1,0 +1,37 @@
+.logoCustom{
+    width: 50%;
+    min-width: 100px;
+   
+}
+.HBtnCusstom{
+    margin-top: 20px !important;
+    margin-left: 20px !important;
+    
+}
+.headerTop{
+    text-align: left !important;
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 0px !important
+}
+.headerBtn{
+    margin-top: 10px;
+    padding: 0px !important;
+    
+}
+.logoOlx{
+    padding: 0px !important;
+    
+}
+
+.headCustom{
+    width: 100% !important;
+}
+
+
+@media screen and (min-width: 100px) and (max-width: 250px) {
+    .imgBox {
+        width: 80px;
+    }
+    
+}

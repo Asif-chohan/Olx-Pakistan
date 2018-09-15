@@ -1,0 +1,96 @@
+.SrchBarContainer{
+    background-image: url("./images/clock-tower.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 10px !important;
+    width: 80% !important;
+    margin: auto !important;
+    box-sizing: content-box !important;
+    margin-top: 20px !important
+ 
+
+}
+.citySelect > *{
+    background-color: white !important;
+    border-radius: 5px !important;
+    min-width: 200px !important;
+}
+
+.SearchBar-input-36 {
+    background-color: white !important;
+    border-radius: 5px !important;
+}
+
+.srchBoxDiv{
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+   
+    padding-left: 15px !important;
+    padding: 10px;
+    padding-bottom: 5px !important;
+    border-radius: 5px;
+   
+}
+.SearchBar-root-132{
+    height: 60px !important;
+}
+.MuiGrid-item-2{
+
+    text-align: left;
+  
+}
+
+.MuiFormControl-root-145{
+    width: 100%;
+}
+
+
+.SearchBar-bootstrapInput-143{
+    background-color: white !important;
+    border-radius: 5px !important;
+    height: 15px;
+    /* max-width: 100% !important; */
+    margin: auto !important;
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+.SearchBar-bootstrapInput-46{
+    background-color: white !important;
+    border-radius: 5px !important;
+    height: 14px ;
+    /* max-width: 100% !important; */
+    margin: auto !important;
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+#bootstrap-input > *{
+    background-color: white !important;
+    border-radius: 5px !important;
+    height: 10px !important;
+    /* max-width: 100% !important; */
+    margin: auto !important;
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+
+#searchCategory  > * {
+    background-color: white !important;
+    border-radius: 5px !important;
+    /* max-width: 100% !important; */
+    margin: auto !important;
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+
+@media (max-width:600px) {
+    .SrchBarContainer{
+      height: 200px;
+     
+    } 
+}

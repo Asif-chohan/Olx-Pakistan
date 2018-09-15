@@ -1,0 +1,39 @@
+.adImage{
+    width: 20%;
+    height: 300px;
+}
+.favImg{
+    width: 30px
+}
+
+.AllAdContainerCustom{
+    text-align: left !important;
+    margin-top: 60px;
+    border: 2px solid gray;
+    padding: 20px;
+
+}
+.imgDiv{
+    border: 1px solid gray;
+    padding: 7px;
+
+}
+.RowCustom{
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 15px;
+}
+
+.btmFav > *{
+    text-align: right !important;
+    margin-left: 825px !important;
+}
+
+
+.heading{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 130px;
+    color: gray;
+    font-weight: bold;
+}
